@@ -1,0 +1,2 @@
+# BetterDiscordJQuery
+JQuery on BetterDiscord
